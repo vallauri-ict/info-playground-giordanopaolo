@@ -1,0 +1,12 @@
+A01 CPUi7 Intel 25 300 10 F1
+A04 RAM16 Corsair 34 45 10 F2
+A08 RAM8 Corsair 56 22 10 F3
+A10 Monitor HP 34 170 10 F1
+A11 Tastiera Microsoft 45 23 10 F2
+A12 CPUi5 Intel 28 200 10 F3
+A23 RAM4 Corsair 38 10 10 F1
+A24 Monitor Acer 44 150 10 F2
+A28 Tastiera HP 81 23 10 F3
+A30 Laptop HP 12 560 10 F1
+A45 Tastiera Microsoft 23 46 10 F2
+A47 Laptop HP 900 12 10 F1
