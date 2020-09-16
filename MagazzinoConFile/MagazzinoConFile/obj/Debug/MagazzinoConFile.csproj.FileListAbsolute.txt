@@ -1,0 +1,9 @@
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\bin\Debug\MagazzinoConFile.exe.config
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\bin\Debug\MagazzinoConFile.exe
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\bin\Debug\MagazzinoConFile.pdb
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.Properties.Resources.resources
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.exe
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.pdb
+C:\Users\Alberto\Desktop\3BINF\Barbero\Forms\MagazzinoConFile\MagazzinoConFile\obj\Debug\MagazzinoConFile.frmMagazzinoFile.resources
