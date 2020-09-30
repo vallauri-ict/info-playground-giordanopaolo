@@ -35,5 +35,20 @@ namespace _01_Multiform
             frm.Text = "sciao belo";
             frm.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 formtextbox = new Form2(textBox1);
+            formtextbox.Text = "si";
+            formtextbox.Show();
+
+
+
+
+
+            FormFiglia form = new FormFiglia();
+            this.AddOwnedForm(form);//congratulazione è appena nata un form femmina
+            form.Show();
+        }
     }
 }
