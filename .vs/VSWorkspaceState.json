@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MagazzinoConFile",
-    "\\MagazzinoConFile\\01_Multiform",
-    "\\MagazzinoConFile\\01_Multiform\\01_Multiform"
+    "\\MagazzinoConFile"
   ],
-  "SelectedNode": "\\MagazzinoConFile\\01_Multiform\\01_Multiform\\Form1.cs",
+  "SelectedNode": "\\MagazzinoConFile\\MagazzinoConFile.sln",
   "PreviewInSolutionExplorer": false
 }
