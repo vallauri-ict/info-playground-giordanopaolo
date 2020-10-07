@@ -19,7 +19,7 @@ namespace _01_Multiform
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -41,14 +41,27 @@ namespace _01_Multiform
             Form2 formtextbox = new Form2(textBox1);
             formtextbox.Text = "si";
             formtextbox.Show();
-
-
-
-
-
             FormFiglia form = new FormFiglia();
             this.AddOwnedForm(form);//congratulazione è appena nata un form femmina
             form.Show();
         }
-    }
+
+        private void FormModale_Click(object sender, EventArgs e)
+        {
+            FormModale fm = new FormModale();
+            if(fm.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Premuto ok");
+                TxtBNomefm.Text = fm.nome;
+                txtBEtàfm.Text = fm.età;
+
+            }
+            else
+            {
+                MessageBox.Show("Premuto annulla");
+                TxtBNomefm.Text = "";
+                txtBEtàfm.Text = "";
+            }
+        }
+    }    
 }
