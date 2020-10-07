@@ -65,7 +65,6 @@ namespace _02_FormMDI
         private void apri2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             toolStripStatusLblCiao.Text = "premuto Apri 2";
-
         }
     }
 }
