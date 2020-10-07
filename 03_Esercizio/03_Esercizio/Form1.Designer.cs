@@ -35,6 +35,7 @@
             this.apriForm2ConNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tstl = new System.Windows.Forms.ToolStripStatusLabel();
             this.apriForm2ContestoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.apriFormModaleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -64,7 +65,8 @@
             this.menùToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.apriForm2ToolStripMenuItem,
             this.apriForm2ConNToolStripMenuItem,
-            this.apriForm2ContestoToolStripMenuItem});
+            this.apriForm2ContestoToolStripMenuItem,
+            this.apriFormModaleToolStripMenuItem});
             this.menùToolStripMenuItem.Name = "menùToolStripMenuItem";
             this.menùToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
             this.menùToolStripMenuItem.Text = "&Menù";
@@ -92,9 +94,16 @@
             // apriForm2ContestoToolStripMenuItem
             // 
             this.apriForm2ContestoToolStripMenuItem.Name = "apriForm2ContestoToolStripMenuItem";
-            this.apriForm2ContestoToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
-            this.apriForm2ContestoToolStripMenuItem.Text = "Apri Form 2 con &testo";
+            this.apriForm2ContestoToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.apriForm2ContestoToolStripMenuItem.Text = "Apri Form 2 con &figli";
             this.apriForm2ContestoToolStripMenuItem.Click += new System.EventHandler(this.apriForm2ContestoToolStripMenuItem_Click);
+            // 
+            // apriFormModaleToolStripMenuItem
+            // 
+            this.apriFormModaleToolStripMenuItem.Name = "apriFormModaleToolStripMenuItem";
+            this.apriFormModaleToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.apriFormModaleToolStripMenuItem.Text = "Apri Form Modale";
+            this.apriFormModaleToolStripMenuItem.Click += new System.EventHandler(this.apriFormModaleToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -103,6 +112,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
+            this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -124,6 +134,7 @@
         private System.Windows.Forms.ToolStripMenuItem apriForm2ConNToolStripMenuItem;
         private System.Windows.Forms.ToolStripStatusLabel tstl;
         private System.Windows.Forms.ToolStripMenuItem apriForm2ContestoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem apriFormModaleToolStripMenuItem;
     }
 }
 

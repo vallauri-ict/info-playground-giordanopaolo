@@ -33,13 +33,32 @@ namespace _03_Esercizio
 
         private void apriForm2ContestoToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            tstl.Text = "ha premuto bottone apri Fomr 2 con figli";
             Form2 formtextbox = new Form2();
             formtextbox.Text = "Form Padre";
             formtextbox.Show();
             FormFiglia form = new FormFiglia();
-            this.AddOwnedForm(form);//congratulazione è appena nata un form femmina
+            formtextbox.AddOwnedForm(form);//congratulazione è appena nata un form femmina
             form.Text = "Form Figlia";
             form.Show();
+        }
+
+        private void apriFormModaleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormModale fm = new FormModale();
+            if (fm.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Premuto ok");
+                TxtBNomefm.Text = fm.nome;
+                txtBEtàfm.Text = fm.età;
+
+            }
+            else
+            {
+                MessageBox.Show("Premuto annulla");
+                TxtBNomefm.Text = "";
+                txtBEtàfm.Text = "";
+            }
         }
     }
 }
