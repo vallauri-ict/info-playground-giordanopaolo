@@ -52,8 +52,38 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormFiglia1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFiglia1.Designer.cs">
+      <DependentUpon>FormFiglia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFiglia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFiglia2.Designer.cs">
+      <DependentUpon>FormFiglia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModalEsci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModalEsci.Designer.cs">
+      <DependentUpon>ModalEsci.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFiglia1.resx">
+      <DependentUpon>FormFiglia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFiglia2.resx">
+      <DependentUpon>FormFiglia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalEsci.resx">
+      <DependentUpon>ModalEsci.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
