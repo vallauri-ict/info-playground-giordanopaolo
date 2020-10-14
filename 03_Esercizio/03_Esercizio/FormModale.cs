@@ -16,10 +16,23 @@ namespace _03_Esercizio
         {
             InitializeComponent();
         }
-
+        public string Nome = "";
+        public string Età = "";
         public void FormModale_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Nome = "";
+            Età = "";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Nome = nome.Text;
+            Età = età.Text;
         }
     }
 }
