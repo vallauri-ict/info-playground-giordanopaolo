@@ -40,5 +40,15 @@ namespace _04_Esercizio_Preparatorio
             aus2.Text = "";
             this.Close();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Secondaria_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

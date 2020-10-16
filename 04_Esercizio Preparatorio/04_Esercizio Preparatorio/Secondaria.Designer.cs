@@ -58,6 +58,7 @@
             this.label1.Size = new System.Drawing.Size(38, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Nome:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -101,7 +102,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Secondaria";
             this.Text = "Secondaria";
-            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
+            this.Load += new System.EventHandler(this.Secondaria_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

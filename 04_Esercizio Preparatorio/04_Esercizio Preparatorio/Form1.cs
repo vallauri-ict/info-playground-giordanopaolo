@@ -46,7 +46,21 @@ namespace _04_Esercizio_Preparatorio
 
         private void figliaToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button1.Enabled = true;
             FormDiDialoghi f = new FormDiDialoghi(textBox1, textBox2);
+            f.MdiParent = this;
+            f.Show();
+        }
+
+        private void dinamicaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formdinamica f = new formdinamica();
+            f.Show();
+        }
+
+        private void modaleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            formmodale f = new formmodale();
             f.MdiParent = this;
             f.Show();
         }

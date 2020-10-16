@@ -58,11 +58,23 @@
     <Compile Include="FormDiDialoghi.Designer.cs">
       <DependentUpon>FormDiDialoghi.cs</DependentUpon>
     </Compile>
+    <Compile Include="formdinamica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formdinamica.Designer.cs">
+      <DependentUpon>formdinamica.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormDiUscita.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormDiUscita.Designer.cs">
       <DependentUpon>FormDiUscita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formmodale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formmodale.Designer.cs">
+      <DependentUpon>formmodale.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormDiUscita.resx">
       <DependentUpon>FormDiUscita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formmodale.resx">
+      <DependentUpon>formmodale.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
