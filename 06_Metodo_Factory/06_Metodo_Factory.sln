@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Metodo_Factory", "06_Metodo_Factory\06_Metodo_Factory.csproj", "{0A78B5EE-A280-4D3E-B39A-C294226434AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A78B5EE-A280-4D3E-B39A-C294226434AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A78B5EE-A280-4D3E-B39A-C294226434AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A78B5EE-A280-4D3E-B39A-C294226434AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A78B5EE-A280-4D3E-B39A-C294226434AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E927D02D-F8B9-4283-86F1-6EB904F3703C}
+	EndGlobalSection
+EndGlobal
