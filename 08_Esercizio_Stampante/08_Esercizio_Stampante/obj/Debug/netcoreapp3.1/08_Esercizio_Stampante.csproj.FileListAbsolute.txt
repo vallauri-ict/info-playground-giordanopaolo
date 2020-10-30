@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.exe
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.deps.json
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.dll
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\bin\Debug\netcoreapp3.1\08_Esercizio_Stampante.pdb
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\_08_Esercizio_Stampante.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.dll
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.pdb
+D:\Desktop\Scuola\videolesion\INFO\08_Esercizio_Stampante\08_Esercizio_Stampante\obj\Debug\netcoreapp3.1\08_Esercizio_Stampante.genruntimeconfig.cache
