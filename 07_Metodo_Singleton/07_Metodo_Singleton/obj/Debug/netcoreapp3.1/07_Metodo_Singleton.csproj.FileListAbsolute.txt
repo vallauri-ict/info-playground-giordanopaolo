@@ -1,0 +1,14 @@
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.exe
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.deps.json
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.dll
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\bin\Debug\netcoreapp3.1\07_Metodo_Singleton.pdb
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\_07_Metodo_Singleton.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.dll
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.pdb
+D:\Desktop\Scuola\videolesion\INFO\07_Metodo_Singleton\07_Metodo_Singleton\obj\Debug\netcoreapp3.1\07_Metodo_Singleton.genruntimeconfig.cache
