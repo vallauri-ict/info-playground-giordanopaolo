@@ -1,0 +1,20 @@
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.exe.config
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.exe
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.pdb
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csprojAssemblyReference.cache
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\_02_05_ClassiIndexate.Properties.Resources.resources
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csproj.GenerateResource.cache
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csproj.CoreCompileInputs.cache
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.exe
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.pdb
+S:\informatica\4 superiore\informatica\info-playground-Esposito-Ettore\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\_02_05_ClassiIndexate.Form1.resources
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.exe.config
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.exe
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\bin\Debug\02_05_ClassiIndexate.pdb
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csprojAssemblyReference.cache
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\_02_05_ClassiIndexate.Form1.resources
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\_02_05_ClassiIndexate.Properties.Resources.resources
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csproj.GenerateResource.cache
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.csproj.CoreCompileInputs.cache
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.exe
+D:\Download\02_05_ClassiIndexate\02_05_ClassiIndexate\obj\Debug\02_05_ClassiIndexate.pdb
