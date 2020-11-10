@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.exe
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.deps.json
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.dll
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\bin\Debug\netcoreapp3.1\10_ES_per11_Regex.pdb
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\_10_ES_per11_Regex.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.dll
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.pdb
+D:\Desktop\Scuola\videolesion\INFO\10_ES_per11_Regex\10_ES_per11_Regex\obj\Debug\netcoreapp3.1\10_ES_per11_Regex.genruntimeconfig.cache
