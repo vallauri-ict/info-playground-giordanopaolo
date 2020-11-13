@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.exe
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.deps.json
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.dll
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\bin\Debug\netcoreapp3.1\11_esvalidazione.pdb
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\_11_esvalidazione.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.dll
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.pdb
+D:\Desktop\Scuola\videolesion\INFO\11_esvalidazione\11_esvalidazione\obj\Debug\netcoreapp3.1\11_esvalidazione.genruntimeconfig.cache
