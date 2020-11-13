@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\_12_Uso_delle_liste.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.exe
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.deps.json
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.dll
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\bin\Debug\netcoreapp3.1\12_Uso_delle_liste.pdb
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.dll
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.pdb
+D:\Desktop\Scuola\videolesion\INFO\12_Uso_delle_liste\12_Uso_delle_liste\obj\Debug\netcoreapp3.1\12_Uso_delle_liste.genruntimeconfig.cache
