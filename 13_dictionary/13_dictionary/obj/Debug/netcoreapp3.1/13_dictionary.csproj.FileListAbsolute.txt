@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.exe
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.deps.json
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.dll
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\bin\Debug\netcoreapp3.1\13_dictionary.pdb
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\_13_dictionary.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.dll
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.pdb
+D:\Desktop\Scuola\videolesion\INFO\13_dictionary\13_dictionary\obj\Debug\netcoreapp3.1\13_dictionary.genruntimeconfig.cache
