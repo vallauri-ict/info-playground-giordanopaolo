@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\_14_Esercizio_in_classe.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.exe
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.deps.json
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.dll
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\bin\Debug\netcoreapp3.1\14_Esercizio_in_classe.pdb
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.dll
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.pdb
+D:\Desktop\Scuola\videolesion\INFO\14_Esercizio_in_classe\14_Esercizio_in_classe\obj\Debug\netcoreapp3.1\14_Esercizio_in_classe.genruntimeconfig.cache
