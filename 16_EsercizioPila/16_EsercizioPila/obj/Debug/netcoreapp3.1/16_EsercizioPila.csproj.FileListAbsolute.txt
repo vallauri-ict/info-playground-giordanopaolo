@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.exe
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.deps.json
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.dll
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\bin\Debug\netcoreapp3.1\16_EsercizioPila.pdb
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\_16_EsercizioPila.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.dll
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.pdb
+D:\Desktop\Scuola\videolesion\INFO\16_EsercizioPila\16_EsercizioPila\obj\Debug\netcoreapp3.1\16_EsercizioPila.genruntimeconfig.cache
