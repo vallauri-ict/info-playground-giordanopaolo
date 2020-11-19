@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.exe
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.deps.json
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.dll
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\bin\Debug\netcoreapp3.1\15_EsercizioCode.pdb
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\_15_EsercizioCode.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.dll
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.pdb
+D:\Desktop\Scuola\videolesion\INFO\15_EsercizioCode\15_EsercizioCode\obj\Debug\netcoreapp3.1\15_EsercizioCode.genruntimeconfig.cache
