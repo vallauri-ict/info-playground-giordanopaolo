@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.exe
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.deps.json
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.dll
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\bin\Debug\netcoreapp3.1\17_Ereditarietà.pdb
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\_17_Ereditarietà.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.dll
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.pdb
+D:\Desktop\Scuola\videolesion\INFO\17_Ereditarietà\17_Ereditarietà\obj\Debug\netcoreapp3.1\17_Ereditarietà.genruntimeconfig.cache
