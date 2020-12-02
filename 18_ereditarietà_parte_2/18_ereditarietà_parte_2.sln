@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_ereditarietà_parte_2", "18_ereditarietà_parte_2\18_ereditarietà_parte_2.csproj", "{FFC8BB1C-955B-4864-8BA8-00C00F6FFCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC8BB1C-955B-4864-8BA8-00C00F6FFCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC8BB1C-955B-4864-8BA8-00C00F6FFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC8BB1C-955B-4864-8BA8-00C00F6FFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC8BB1C-955B-4864-8BA8-00C00F6FFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5E79F7-C5F9-485B-A8CC-EB453E1DB654}
+	EndGlobalSection
+EndGlobal

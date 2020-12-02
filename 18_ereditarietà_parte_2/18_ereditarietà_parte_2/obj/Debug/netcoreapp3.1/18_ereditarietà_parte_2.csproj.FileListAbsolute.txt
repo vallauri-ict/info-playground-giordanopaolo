@@ -1,0 +1,15 @@
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.exe
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.deps.json
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.runtimeconfig.json
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.runtimeconfig.dev.json
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.dll
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\bin\Debug\netcoreapp3.1\18_ereditarietà_parte_2.pdb
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\_18_ereditarietà_parte_2.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.AssemblyInfoInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.AssemblyInfo.cs
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.dll
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.pdb
+D:\Desktop\Scuola\videolesion\INFO\18_ereditarietà_parte_2\18_ereditarietà_parte_2\obj\Debug\netcoreapp3.1\18_ereditarietà_parte_2.genruntimeconfig.cache
