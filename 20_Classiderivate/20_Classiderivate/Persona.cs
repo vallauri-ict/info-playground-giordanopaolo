@@ -11,7 +11,8 @@ namespace _20_Classiderivate
     {
         private string nome, cognome, sesso;
         private int eta;
-        private void setAtt(string nome, string cognome, int eta, string sesso)
+        
+        public void setAtt(string nome, string cognome, int eta, string sesso)
         {
             this.sesso = sesso;
             this.nome = nome;

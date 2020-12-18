@@ -8,7 +8,7 @@ namespace _20_Classiderivate
 {
     class Studente : Persona
     {
-        List<int> voti = new List<int>();
+        public List<int> voti = new List<int>();
         public double Media()
         {
             int sommaVoti = 0;
@@ -16,7 +16,7 @@ namespace _20_Classiderivate
             {
                 sommaVoti += item;
             }
-            return (double)sommaVoti * voti.Count;
+            return (double)sommaVoti / voti.Count;
         }
     }
 }
