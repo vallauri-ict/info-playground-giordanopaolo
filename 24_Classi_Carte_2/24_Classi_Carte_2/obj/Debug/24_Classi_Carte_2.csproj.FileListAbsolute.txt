@@ -1,0 +1,10 @@
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\bin\Debug\24_Classi_Carte_2.exe.config
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\bin\Debug\24_Classi_Carte_2.exe
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\bin\Debug\24_Classi_Carte_2.pdb
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\24_Classi_Carte_2.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\_24_Classi_Carte_2.Form1.resources
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\_24_Classi_Carte_2.Properties.Resources.resources
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\24_Classi_Carte_2.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\24_Classi_Carte_2.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\24_Classi_Carte_2.exe
+D:\Desktop\Scuola\videolesion\INFO\24_Classi_Carte_2\24_Classi_Carte_2\obj\Debug\24_Classi_Carte_2.pdb
