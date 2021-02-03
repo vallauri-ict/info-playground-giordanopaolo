@@ -21,16 +21,16 @@ namespace _04_10_Stagisti
             get => classe;
             set
             {
-
+                classe = value;
             }
         }
 
         public char Sezione
         {
-            get => Sezione;
+            get => sezione;
             set
             {
-
+                sezione = value;
             }
         }
 
@@ -39,20 +39,27 @@ namespace _04_10_Stagisti
             get => specializzazione;
             set
             {
-
+                specializzazione = value;
             }
         }
 
         #endregion
 
-        public Studente(string nome, string cognome, string citta) : base(nome, cognome, citta)
+        public Studente(string nome, char sezione, string specializzazione, string classe, string cognome, string citta) 
+            : base(nome, cognome, citta)
         {
+            Classe = Convert.ToChar(classe);
+            Specializzazione = specializzazione;
+            Sezione = Convert.ToChar(sezione);
+            progressivo++;
+            matricola = "A" + progressivo.ToString().PadLeft(5, '0');
+
 
         }
 
         public override string Visualizza()
         {
-            throw new NotImplementedException();
+            return matricola + " " + Nome + " " + Cognome + " " + Citta + " " + Sezione + " " + Specializzazione;
         }
     }
 }

@@ -112,6 +112,7 @@ namespace _04_10_Stagisti
             this.btmCrea.TabIndex = 6;
             this.btmCrea.Text = "Crea stagista";
             this.btmCrea.UseVisualStyleBackColor = true;
+            this.btmCrea.Click += new System.EventHandler(this.btmCrea_Click);
             // 
             // label4
             // 
@@ -237,6 +238,7 @@ namespace _04_10_Stagisti
             this.btmCerca.TabIndex = 19;
             this.btmCerca.Text = "Cerca azienda";
             this.btmCerca.UseVisualStyleBackColor = true;
+            this.btmCerca.Click += new System.EventHandler(this.btmCerca_Click);
             // 
             // dgvStag
             // 
@@ -305,6 +307,7 @@ namespace _04_10_Stagisti
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Gestione stage";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.txtOre)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStag)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
