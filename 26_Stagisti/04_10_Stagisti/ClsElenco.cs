@@ -21,6 +21,7 @@ namespace _04_10_Stagisti
         }
         public void visualizzaDgv(DataGridView d)
         {
+            d.DataSource = null;
             d.DataSource = lst;
         }
 

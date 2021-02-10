@@ -62,5 +62,29 @@ namespace _04_10_Stagisti
             if (ore != 0)
                 MessageBox.Show("Gli stagisti hanno effettuato ore: " + ore.ToString());
         }
+
+        private void btmElimina_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (numericUpDown1.Value == -1)
+                {
+                    lst.Canc();
+                    numericUpDown1.Maximum--;
+                }
+                int pos = Convert.ToInt32(numericUpDown1.Value);
+                if (pos >= 0)
+                {
+                    lst.Canc(pos);
+                    numericUpDown1.Maximum--;
+                }
+                lst.visualizzaDgv(dgvStag);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+
+        }
     }
 }

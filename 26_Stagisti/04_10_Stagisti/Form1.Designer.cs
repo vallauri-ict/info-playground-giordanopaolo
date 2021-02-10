@@ -256,6 +256,7 @@ namespace _04_10_Stagisti
             this.btmElimina.TabIndex = 21;
             this.btmElimina.Text = "Elimina posizione";
             this.btmElimina.UseVisualStyleBackColor = true;
+            this.btmElimina.Click += new System.EventHandler(this.btmElimina_Click);
             // 
             // numericUpDown1
             // 
@@ -265,9 +266,19 @@ namespace _04_10_Stagisti
             0,
             0,
             0});
+            this.numericUpDown1.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            -2147483648});
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(100, 20);
             this.numericUpDown1.TabIndex = 23;
+            this.numericUpDown1.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            -2147483648});
             // 
             // label5
             // 

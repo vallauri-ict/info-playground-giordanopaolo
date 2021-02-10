@@ -55,6 +55,7 @@ namespace _04_10_Stagisti
             matricola = "A" + progressivo.ToString().PadLeft(5, '0');
 
 
+
         }
 
         public override string Visualizza()
